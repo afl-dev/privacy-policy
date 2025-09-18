@@ -1,0 +1,18 @@
+version: 1.0.9
+App name: Shopping List STA
+Short: Smart & simple grocery lists with categories, prices, and dark mode.
+Full:
+Shopping List STA helps you plan shopping quickly and stay organized.
+Contains ads.
+
+Features
+- Unlimited lists
+- Categories & filters — items are grouped for quicker shopping
+- Budget tracking — enter prices and see the running total
+- Recipes → add all ingredients to a list in one tap
+- Notes with photos
+- Dark and light themes
+- Language and currency options
+- Import items from text or the clipboard
+
+Designed for everyday use: fast item entry, clear totals, and a clean interface that works offline.
